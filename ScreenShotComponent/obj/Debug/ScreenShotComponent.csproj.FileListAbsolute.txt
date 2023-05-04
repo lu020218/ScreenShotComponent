@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\bin\Debug\ScreenChooseShot.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\bin\Debug\ScreenChooseShot.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenChooseShot.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenShotComponent.ScreenShotForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenShotComponent.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenChooseShot.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenChooseShot.pdb
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\bin\Debug\windowfi.cur
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\bin\Debug\ScreenShotComponent.XML
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\bin\Debug\ScreenShotComponent.dll
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\bin\Debug\ScreenShotComponent.pdb
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.csproj.AssemblyReference.cache
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.Properties.Resources.resources
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.ScreenShotForm.resources
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.WindowCaptureForm.resources
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.csproj.GenerateResource.cache
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.csproj.CoreCompileInputs.cache
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.dll
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\ScreenShotComponent\obj\Debug\ScreenShotComponent.pdb

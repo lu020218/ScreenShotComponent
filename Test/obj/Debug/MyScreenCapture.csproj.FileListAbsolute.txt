@@ -1,0 +1,14 @@
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\bin\Debug\windowfi.cur
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\bin\Debug\Test.exe
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\bin\Debug\Test.pdb
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\bin\Debug\ScreenShotComponent.dll
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\bin\Debug\ScreenShotComponent.pdb
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\bin\Debug\ScreenShotComponent.xml
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\MyScreenCapture.csproj.AssemblyReference.cache
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\Test.FormMain.resources
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\MyScreenCapture.csproj.GenerateResource.cache
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\MyScreenCapture.csproj.CoreCompileInputs.cache
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\MyScreenCapture.csproj.CopyComplete
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\Test.exe
+E:\Download\C# 截屏程序（全屏、区域、窗体）\ScreenShotComponent\Test\obj\Debug\Test.pdb

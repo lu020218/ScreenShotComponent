@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenShotComponent", "ScreenShotComponent\ScreenShotComponent.csproj", "{D3E9721A-2F93-47F1-B690-40A8D85C49F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyScreenCapture", "Test\MyScreenCapture.csproj", "{87E4448B-9536-4F95-9A53-7AB8D8F6104A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E9721A-2F93-47F1-B690-40A8D85C49F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E9721A-2F93-47F1-B690-40A8D85C49F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E9721A-2F93-47F1-B690-40A8D85C49F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E9721A-2F93-47F1-B690-40A8D85C49F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E4448B-9536-4F95-9A53-7AB8D8F6104A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E4448B-9536-4F95-9A53-7AB8D8F6104A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E4448B-9536-4F95-9A53-7AB8D8F6104A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E4448B-9536-4F95-9A53-7AB8D8F6104A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77DE8074-F3AD-4B9C-8EEF-BEB61CE7E801}
+	EndGlobalSection
+EndGlobal

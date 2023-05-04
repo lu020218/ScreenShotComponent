@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\bin\Debug\ScreenChooseShot.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\bin\Debug\ScreenChooseShot.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenChooseShot.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenShot.ScreenShotForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenShot.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenChooseShot.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ScreenChooseShot\ScreenChooseShot\obj\Debug\ScreenChooseShot.pdb

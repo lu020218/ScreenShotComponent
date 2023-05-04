@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScreenShotComponent</name>
+    </assembly>
+    <members>
+        <member name="T:ScreenShotComponent.Properties.Resources">
+            <summary>
+              强类型资源类，用于查找本地化字符串等。
+            </summary>
+        </member>
+        <member name="P:ScreenShotComponent.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:ScreenShotComponent.Properties.Resources.Culture">
+            <summary>
+              为使用此强类型资源类的所有资源查找
+              重写当前线程的 CurrentUICulture 属性。
+            </summary>
+        </member>
+        <member name="F:ScreenShotComponent.ScreenShotForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ScreenShotComponent.ScreenShotForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ScreenShotComponent.ScreenShotForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ScreenShotComponent.ScreenShotForm.ScreenImage">
+            <summary>
+            获取截图
+            </summary>
+        </member>
+        <member name="M:ScreenShotComponent.ScreenShot.GetRangeImage">
+            <summary>
+            让用户选择区域截图，如果用户按下Esc键或用鼠标右键点击截图区域，则取消截图，返回null
+            </summary>
+            <returns>截图</returns>
+        </member>
+        <member name="M:ScreenShotComponent.ScreenShot.GetFullScreenImage">
+            <summary>
+            获取全屏截图
+            </summary>
+            <returns>截图</returns>
+        </member>
+        <member name="M:ScreenShotComponent.ScreenShot.OpenWindowImageCaptureForm">
+            <summary>
+            截取窗体
+            </summary>
+        </member>
+        <member name="F:ScreenShotComponent.ScreenShot.AfterCapture">
+            <summary>
+            截取窗体后触发
+            </summary>
+        </member>
+        <member name="M:ScreenShotComponent.WindowsAPI.ChildWindowFromPoint(System.Drawing.Point)">
+            <summary>
+            返回给定位置所在窗体
+            </summary>
+            <param name="point"></param>
+            <returns>if return == IntPtr.Zero no window was found</returns>
+        </member>
+        <member name="M:ScreenShotComponent.WindowsAPI.ShowInvertRectTracker(System.IntPtr)">
+            <summary>
+            显示窗体边框
+            </summary>
+            <param name="window"></param>
+        </member>
+        <member name="M:ScreenShotComponent.WindowCaptureForm.#ctor">
+            <summary>
+            捕捉窗体的辅助Form
+            </summary>
+        </member>
+        <member name="F:ScreenShotComponent.WindowCaptureForm.AfterCaptureScreen">
+            <summary>
+            截取屏幕后触发
+            </summary>
+        </member>
+        <member name="F:ScreenShotComponent.WindowCaptureForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ScreenShotComponent.WindowCaptureForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ScreenShotComponent.WindowCaptureForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ScreenShotComponent.WindowCaptureForm.ScreenImage">
+            <summary>
+            获取截图
+            </summary>
+        </member>
+        <member name="T:ScreenShotComponent.WindowScreenCaptureEventArgs">
+            <summary>
+            捕获屏幕事件参数
+            </summary>
+        </member>
+        <member name="P:ScreenShotComponent.WindowScreenCaptureEventArgs.Image">
+            <summary>
+            截图
+            </summary>
+        </member>
+    </members>
+</doc>

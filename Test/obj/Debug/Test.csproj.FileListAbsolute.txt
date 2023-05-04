@@ -1,0 +1,12 @@
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\bin\Debug\windowfi.cur
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\bin\Debug\Test.exe
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\bin\Debug\Test.pdb
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\bin\Debug\ScreenShotComponent.dll
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\bin\Debug\ScreenShotComponent.pdb
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\bin\Debug\ScreenShotComponent.xml
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\obj\Debug\Test.Form1.resources
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\obj\Debug\Test.exe
+E:\Work\SvnCode\client\DemoOfScreenShot\ScreenShotComponent\Test\obj\Debug\Test.pdb
